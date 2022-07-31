@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 public class MySelenium {
-
+    //update by remote
     public String searchKeys(String keyword) throws InterruptedException {
         //打开chrome的对象
         ChromeOptions options = new ChromeOptions();
