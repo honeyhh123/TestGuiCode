@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class MySelenium {
     //this is commit by zc
+    //update by remote
     public String searchKeys(String keyword) throws InterruptedException {
         //打开chrome的对象
         ChromeOptions options = new ChromeOptions();
