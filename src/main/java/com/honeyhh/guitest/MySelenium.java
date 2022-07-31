@@ -9,6 +9,7 @@ public class MySelenium {
     //this is commit by zc
     //update by remote
     public String searchKeys(String keyword) throws InterruptedException {
+        //本地修改
         //打开chrome的对象
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--headless");
